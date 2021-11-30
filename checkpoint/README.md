@@ -1,2 +1,2 @@
 # Statement
-Put pre-trained model '___.pkl' here
+Put pre-trained model `___.pkl` here
