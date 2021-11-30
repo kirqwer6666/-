@@ -1,4 +1,5 @@
 #Folder Structure
+'''
 RESIDE/ITS/train/hazy
                 /gt
           /val/hazy
@@ -9,3 +10,4 @@ RESIDE/OTS/train/hazy
               /gt
 NTIRE/IHAZY
      /OHAZY
+'''
